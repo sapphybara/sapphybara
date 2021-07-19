@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Warren Wiser
 - 👀 I’m interested in front-end development
+- 💼 I work at [Pacific Northwest National Laboratory](www.pnnl.gov) on a React App
 - 🌱 I’m currently learning the MERN stack, building an ecommerce app
 - 💞️ I’m looking to collaborate on any web development projects
 - 📫 I'm reachable at [wswiser101@utexas.edu](mailto:wswiser101@utexas.edu)
