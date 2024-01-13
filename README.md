@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Sapphyra Wiser
-- 👀 I’m interested in front-end development and UI/UX design
-- 💼 I work at [Pacific Northwest National Laboratory](https://www.pnnl.gov) on React applications and front-end development in Python with Plotly's Dash framework.
-- 🌱 I'm directing my focus towards thorough mastery of CSS, no matter how long it takes! It may be a cliche, but it can be so fun and fast if you attempt to properly  understand it (yes I've been there, but is `margin: 0 auto;` _really_ the best way to center an element with CSS3+? 🤷
-- 💞️ I’m looking to collaborate on the front-end of web applications
+- 📜 I hold a BS in Mathematics and a Certificate in Computer Science from The University of Texas at Austin
+- 👀 I’m interested in front-end & mobile development, as well as UI/UX design
+- 💼 I work at [Pacific Northwest National Laboratory](https://www.pnnl.gov) developing and designing React applications with TypeScript using frameworks like styled-components, Tailwind, d3.js, and  in Python with Plotly's Dash framework.
+- 🌱 I'm directing my focus towards thorough mastery of CSS, frontend frameworks, and W3C accessibility (WCAG 2.x)
+- 💞️ I’m looking to collaborate on application development and am interested in many environments
 - 📫 I'm reachable through [LinkedIn](https://www.linkedin.com/in/sapphybara/)
-- 💻 I'm having a wonderful time learning Figma, I find it a definite upgrade over XD. There is certainly a pretty close tossup between features of both, however.
-- 🏫 I'm a senior in Mathematics, with a certificate in Computer Science, at The University of Texas at Austin.
+- 💻 I'm creating a React Native mobile app to pursue my interest in mobile development
 
 <!---
 sapphybara/sapphybara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
